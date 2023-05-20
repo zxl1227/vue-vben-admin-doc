@@ -247,3 +247,5 @@ pnpm i
 └── windi.config.ts # windcss配置文件
 
 ```
+## 对git提交的时候报错husky ＞ pre-commit hook failed (add --no-verify to bypass)的原因和一些小技巧
+可直接参考https://blog.csdn.net/CJamenc/article/details/111316791
